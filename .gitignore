@@ -1,0 +1,4 @@
+logs
+__pycache__/
+set-connections.sh
+.DS_Store
